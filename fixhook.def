@@ -1,0 +1,4 @@
+LIBRARY fixhook
+EXPORTS installHook
+	uninstallHook
+	keyboardHook

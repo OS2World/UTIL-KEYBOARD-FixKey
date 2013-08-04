@@ -1,0 +1,4 @@
+NAME fixkey WINDOWAPI
+IMPORTS fixhook.installHook
+	fixhook.uninstallHook
+	fixhook.keyboardHook
